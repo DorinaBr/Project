@@ -52,7 +52,6 @@ public class StudentService {
         return entityToDto(entity);
     }
 
-
     public void delete (Long id){
         repository.deleteById(id);
     }
