@@ -5,3 +5,4 @@ Practicing :
 - IoC & DI
 - Annotations
 - Spring Data JPA
+- Unit Tests
